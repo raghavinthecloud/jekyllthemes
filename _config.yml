@@ -1,5 +1,6 @@
 name: Jekyll Themes
 url: https://raghavinthecloud.github.io/jekyllthemes/
+base-url: '/jekyllthemes/'
 description: Insert tagline here
 
 permalink: /themes/:title/
